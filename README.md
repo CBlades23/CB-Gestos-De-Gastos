@@ -1,7 +1,14 @@
-# Vue 3 + Vite
+Administrador de gastos . Con la utilización de CRUD (create, read, update, delete) para el manejo de los gastos de manera local, utilizando el LOCALSTORAGE.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Páginas web hecha con las siguientes tecnologías
 
-## Recommended IDE Setup
+  - VUE.js
+  - HTML
+  - TAILWIND
+  - JS
+  - PRONTAS ACUTALIZACIONES
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Paquetes de NPM:
+  - vue3-circle-progress
+
+Pronto se agregará la función de inicio de sesión para que se pueda acceder a la información que agregas desde cualquier dispositivo.
